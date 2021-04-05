@@ -1,0 +1,22 @@
+#1 Start Server
+
+//Compile and Execute the File MyMain.java
+
+javac MyMain.java
+
+java MyMain
+
+//Choose 1 for Server and 2 for Client so First Press 1 and Start Server
+
+1
+
+#2 Start Client
+
+//We will register 3 clients(Peers) on to the Server as per the project requirement
+
+//For Client1
+
+java MyMain
+2
+
+

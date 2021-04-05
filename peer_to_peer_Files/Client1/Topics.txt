@@ -1,0 +1,26 @@
+Cyberbullying With Fake Account Detection
+
+//Datasets
+
+
+//Extra Datasets
+https://www.kaggle.com/mtaboada/c3-constructive-comments-corpus?select=C3_anonymized.csv
+
+//Code
+
+
+/Github Link
+
+1 - https://github.com/dhavalpotdar/cyberbullying-detection - Dataset( https://github.com/zeerakw/hatespeech )
+2 - https://github.com/joshimiloni/Cyber-Bullying-Detection
+3 - https://github.com/sweta20/Detecting-Cyberbullying-Across-SMPs
+4 - https://github.com/aditya1192/Cyberbullying-Detection  
+
+
+//NLP Toxic Links
+
+https://stackabuse.com/solving-sequence-problems-with-lstm-in-keras/
+
+https://medium.com/@nehabhangale/toxic-comment-classification-models-comparison-and-selection-6c02add9d39f
+
+https://machinelearningmastery.com/make-predictions-long-short-term-memory-models-keras/
